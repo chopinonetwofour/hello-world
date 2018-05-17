@@ -1,4 +1,5 @@
 # hello-world
 konichiwa
 
-こんにちは〜
+こんにちは
+さようなら
